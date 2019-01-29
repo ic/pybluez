@@ -4,7 +4,9 @@
 build/
 PyBluez.egg-info/
 dist/
+venv/
 
 # Mac detritus 
 .DS_Store
 xcuserdata/
+macos/LightAquaBlue.framework/
